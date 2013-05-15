@@ -1,6 +1,6 @@
-AUTHOR = u"Kellan"
-SITENAME = u"Kellan Jacobs"
-SITEURL = 'http://kellan.pycourse.com'
+AUTHOR = u"Cameron"
+SITENAME = u"Cam"
+SITEURL = 'http://camb.pycourse.com'
 RELATIVE_URLS = True
 
 TIMEZONE = 'America/Los_Angeles'
@@ -13,10 +13,10 @@ PAGE_SAVE_AS = '{slug}/index.html'
 DEFAULT_LANG = 'en'
 DEFAULT_CATEGORY = 'notes'
 PATH = 'src/'
-OUTPUT_PATH = 'www/'
+OUTPUT_PATH = '../www/'
 STATIC_PATHS = ['images']
 DISQUS_SITENAME = "pycourse"
-
+#input the chosen site name from disqus
 
 SOCIAL = (('Liz\'s Site', 'http://www.eleddy.com'),
           ('Liz\'s Twitter', 'http://twitter.com/eleddy'),
